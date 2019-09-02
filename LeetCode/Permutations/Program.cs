@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Permutations
 {
@@ -7,25 +8,20 @@ namespace Permutations
     {
         static void Main(string[] args)
         {
-            List<string> results = new List<string>();
-            var arr = new[] { 1, 2, 3, 4 };
-            GeneratePermutations(arr, 0, arr.Length - 1, results);
+            var state = new List<int>();
+            var array = new[] { 1, 2, 3, 5 };
+            GeneratePermutations(new List<int>(), array.ToList());
         }
 
-        public static void GeneratePermutations(int[] arr, int currentIndex, int len, List<string> results)
+        public static void GeneratePermutations(List<int> currentArray, List<int> original)
         {
-            for (int i = currentIndex; i <= len; i++)
+            foreach(int n in original.Except(currentArray))
             {
-                if (currentIndex == len)
-                {
-                    results.Add(string.Join(",", arr));
-                }
-
-                (arr[i], arr[currentIndex]) = (arr[currentIndex], arr[i]);
-
-                GeneratePermutations(arr, currentIndex + 1, len, results);
-                (arr[i], arr[currentIndex]) = (arr[currentIndex], arr[i]);
-
+                currentArray.Add(n);
+                GeneratePermutations(currentArray, original);
+                if (original.Count == currentArray.Count)
+                    Console.WriteLine(string.Join(".", currentArray));
+                currentArray.Remove(n);
             }
         }
     }
