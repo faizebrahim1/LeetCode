@@ -1,0 +1,11 @@
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\bin\Debug\netcoreapp2.1\Permutations.deps.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\bin\Debug\netcoreapp2.1\Permutations.runtimeconfig.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\bin\Debug\netcoreapp2.1\Permutations.runtimeconfig.dev.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\bin\Debug\netcoreapp2.1\Permutations.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\bin\Debug\netcoreapp2.1\Permutations.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\obj\Debug\netcoreapp2.1\Permutations.csprojAssemblyReference.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\obj\Debug\netcoreapp2.1\Permutations.csproj.CoreCompileInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\obj\Debug\netcoreapp2.1\Permutations.AssemblyInfoInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\obj\Debug\netcoreapp2.1\Permutations.AssemblyInfo.cs
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\obj\Debug\netcoreapp2.1\Permutations.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\Permutations\obj\Debug\netcoreapp2.1\Permutations.pdb
