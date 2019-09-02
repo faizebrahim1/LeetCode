@@ -10,18 +10,20 @@ namespace Permutations
         {
             var state = new List<int>();
             var array = new[] { 1, 2, 3, 5 };
-            GeneratePermutations(new List<int>(), array.ToList());
+            GeneratePermutations(array, 0);
         }
 
-        public static void GeneratePermutations(List<int> currentArray, List<int> original)
+        public static void GeneratePermutations(int[] array, int position)
         {
-            foreach(int n in original.Except(currentArray))
+            for (int i = position; i < array.Length; i++)
             {
-                currentArray.Add(n);
-                GeneratePermutations(currentArray, original);
-                if (original.Count == currentArray.Count)
-                    Console.WriteLine(string.Join(".", currentArray));
-                currentArray.Remove(n);
+                if (position == array.Length - 1)
+                {
+                    Console.WriteLine(string.Join(".", array));
+                }
+                (array[i], array[position]) = (array[position], array[i]);
+                GeneratePermutations(array, position + 1);
+                (array[i], array[position]) = (array[position], array[i]);
             }
         }
     }
