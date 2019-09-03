@@ -1,0 +1,11 @@
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\bin\Debug\netcoreapp2.1\LongestSubsetNoRepeats.deps.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\bin\Debug\netcoreapp2.1\LongestSubsetNoRepeats.runtimeconfig.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\bin\Debug\netcoreapp2.1\LongestSubsetNoRepeats.runtimeconfig.dev.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\bin\Debug\netcoreapp2.1\LongestSubsetNoRepeats.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\bin\Debug\netcoreapp2.1\LongestSubsetNoRepeats.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\obj\Debug\netcoreapp2.1\LongestSubsetNoRepeats.csproj.CoreCompileInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\obj\Debug\netcoreapp2.1\LongestSubsetNoRepeats.AssemblyInfoInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\obj\Debug\netcoreapp2.1\LongestSubsetNoRepeats.AssemblyInfo.cs
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\obj\Debug\netcoreapp2.1\LongestSubsetNoRepeats.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\obj\Debug\netcoreapp2.1\LongestSubsetNoRepeats.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestSubsetNoRepeats\obj\Debug\netcoreapp2.1\LongestSubsetNoRepeats.csprojAssemblyReference.cache

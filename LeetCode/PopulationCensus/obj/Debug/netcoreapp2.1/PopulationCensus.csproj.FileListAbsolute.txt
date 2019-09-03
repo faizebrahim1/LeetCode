@@ -1,0 +1,11 @@
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\bin\Debug\netcoreapp2.1\PopulationCensus.deps.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\bin\Debug\netcoreapp2.1\PopulationCensus.runtimeconfig.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\bin\Debug\netcoreapp2.1\PopulationCensus.runtimeconfig.dev.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\bin\Debug\netcoreapp2.1\PopulationCensus.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\bin\Debug\netcoreapp2.1\PopulationCensus.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\obj\Debug\netcoreapp2.1\PopulationCensus.csproj.CoreCompileInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\obj\Debug\netcoreapp2.1\PopulationCensus.AssemblyInfoInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\obj\Debug\netcoreapp2.1\PopulationCensus.AssemblyInfo.cs
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\obj\Debug\netcoreapp2.1\PopulationCensus.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\obj\Debug\netcoreapp2.1\PopulationCensus.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\PopulationCensus\obj\Debug\netcoreapp2.1\PopulationCensus.csprojAssemblyReference.cache
