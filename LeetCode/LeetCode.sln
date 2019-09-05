@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationCensus", "Populat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubsetNoRepeats", "LongestSubsetNoRepeats\LongestSubsetNoRepeats.csproj", "{B919B309-FFB7-435A-A590-6B6C24D62723}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromeSubstring", "LongestPalindromeSubstring\LongestPalindromeSubstring.csproj", "{80178171-3BAE-4363-AE45-F87AE8FFECFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{8517D45C-1B44-4179-B903-102261DBF3B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B919B309-FFB7-435A-A590-6B6C24D62723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B919B309-FFB7-435A-A590-6B6C24D62723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B919B309-FFB7-435A-A590-6B6C24D62723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80178171-3BAE-4363-AE45-F87AE8FFECFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80178171-3BAE-4363-AE45-F87AE8FFECFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80178171-3BAE-4363-AE45-F87AE8FFECFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80178171-3BAE-4363-AE45-F87AE8FFECFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8517D45C-1B44-4179-B903-102261DBF3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8517D45C-1B44-4179-B903-102261DBF3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8517D45C-1B44-4179-B903-102261DBF3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8517D45C-1B44-4179-B903-102261DBF3B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

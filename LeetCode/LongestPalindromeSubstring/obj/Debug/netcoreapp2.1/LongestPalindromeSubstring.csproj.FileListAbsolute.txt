@@ -1,0 +1,11 @@
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\bin\Debug\netcoreapp2.1\LongestPalindromeSubstring.deps.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\bin\Debug\netcoreapp2.1\LongestPalindromeSubstring.runtimeconfig.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\bin\Debug\netcoreapp2.1\LongestPalindromeSubstring.runtimeconfig.dev.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\bin\Debug\netcoreapp2.1\LongestPalindromeSubstring.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\bin\Debug\netcoreapp2.1\LongestPalindromeSubstring.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\obj\Debug\netcoreapp2.1\LongestPalindromeSubstring.csprojAssemblyReference.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\obj\Debug\netcoreapp2.1\LongestPalindromeSubstring.csproj.CoreCompileInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\obj\Debug\netcoreapp2.1\LongestPalindromeSubstring.AssemblyInfoInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\obj\Debug\netcoreapp2.1\LongestPalindromeSubstring.AssemblyInfo.cs
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\obj\Debug\netcoreapp2.1\LongestPalindromeSubstring.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\LongestPalindromeSubstring\obj\Debug\netcoreapp2.1\LongestPalindromeSubstring.pdb
