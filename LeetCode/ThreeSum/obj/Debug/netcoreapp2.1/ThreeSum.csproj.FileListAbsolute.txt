@@ -1,0 +1,11 @@
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\bin\Debug\netcoreapp2.1\ThreeSum.deps.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\bin\Debug\netcoreapp2.1\ThreeSum.runtimeconfig.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\bin\Debug\netcoreapp2.1\ThreeSum.runtimeconfig.dev.json
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\bin\Debug\netcoreapp2.1\ThreeSum.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\bin\Debug\netcoreapp2.1\ThreeSum.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\obj\Debug\netcoreapp2.1\ThreeSum.csproj.CoreCompileInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\obj\Debug\netcoreapp2.1\ThreeSum.AssemblyInfoInputs.cache
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\obj\Debug\netcoreapp2.1\ThreeSum.AssemblyInfo.cs
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\obj\Debug\netcoreapp2.1\ThreeSum.dll
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\obj\Debug\netcoreapp2.1\ThreeSum.pdb
+C:\SourceCode\faizebrahim1\LeetCode\LeetCode\ThreeSum\obj\Debug\netcoreapp2.1\ThreeSum.csprojAssemblyReference.cache

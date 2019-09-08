@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromeSubstring"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{8517D45C-1B44-4179-B903-102261DBF3B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListReverseEveryK", "LinkedListReverseEveryK\LinkedListReverseEveryK.csproj", "{83139FC8-E069-41F2-A039-896464A3A71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{5C7B11AB-4CF9-42B1-946A-0B40506D7608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{8517D45C-1B44-4179-B903-102261DBF3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8517D45C-1B44-4179-B903-102261DBF3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8517D45C-1B44-4179-B903-102261DBF3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83139FC8-E069-41F2-A039-896464A3A71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83139FC8-E069-41F2-A039-896464A3A71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83139FC8-E069-41F2-A039-896464A3A71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83139FC8-E069-41F2-A039-896464A3A71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7B11AB-4CF9-42B1-946A-0B40506D7608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7B11AB-4CF9-42B1-946A-0B40506D7608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7B11AB-4CF9-42B1-946A-0B40506D7608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7B11AB-4CF9-42B1-946A-0B40506D7608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

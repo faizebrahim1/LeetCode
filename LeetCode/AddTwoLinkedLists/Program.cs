@@ -44,10 +44,11 @@ namespace AddTwoLinkedLists
 
                 tempNode.next = new ListNode(temp % 10);
                 tempNode = tempNode.next;
+
                 l1 = l1 != null ? l1.next : null;
                 l2 = l2 != null ? l2.next : null;
 
-                if (l1 == null && l2 == null)
+                if (l1 == null && l2 == null && carry == 0)
                     break;
             }
             return result.next;

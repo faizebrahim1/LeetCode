@@ -13,6 +13,26 @@ namespace Permutations
             GeneratePermutations(array, 0);
         }
 
+        public IList<IList<int>> Permute(int[] nums)
+        {
+            var results = new List<IList<int>>();
+            Permute(nums, 0, results);
+            return results;
+        }
+
+        public void Permute(int[] nums, int k, IList<IList<int>> results)
+        {
+            for (int i = k; i < nums.Length; i++)
+            {
+                if (k == nums.Length - 1)
+                {
+                    results.Add((IList<int>)nums.ToList());
+                }
+                (nums[i], nums[k]) = (nums[k], nums[i]);
+                Permute(nums, k + 1, results);
+                (nums[i], nums[k]) = (nums[k], nums[i]);
+            }
+        }
         public static void GeneratePermutations(int[] array, int position)
         {
             for (int i = position; i < array.Length; i++)
